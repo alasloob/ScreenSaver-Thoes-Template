@@ -1,0 +1,2 @@
+name "iphone/ScreenSvaerPlugin"
+constrain "theos" to link_theos

@@ -1,0 +1,9 @@
+Package: @@PACKAGENAME@@
+Name: @@FULLPROJECTNAME@@
+Depends: firmware (>= 7.0), com.arbphone.screensaver
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome plugin for the Screen Saver!
+Maintainer: @@USER@@
+Author: @@USER@@
+Section: Addons (ScreenSaver)
